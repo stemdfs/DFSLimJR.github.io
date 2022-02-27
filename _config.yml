@@ -2,7 +2,7 @@ title: Webpage Start Up
 description: This page introduces the basics on how to make your own webpage.
 show_downloads: true
 
-baseurl: "/webpage_start_up" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
+baseurl: "/cayman-blog" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
 url: "https://lorepirri.github.io" # change this to the base hostname & protocol for your site
 
 
