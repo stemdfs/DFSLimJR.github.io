@@ -1,5 +1,5 @@
 title: Webpage Start Up
-description: This page introduces the basics on how to make your own webpage.
+description: This page introduces the basics on how to make your own webpage
 show_downloads: true
 
 baseurl: "/cayman-blog" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
