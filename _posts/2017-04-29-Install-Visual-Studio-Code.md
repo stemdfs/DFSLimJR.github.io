@@ -9,6 +9,7 @@ title: "Install Visual Studio Code"
     
     
     <p>Click <a href="https://code.visualstudio.com/Download">here</a> to install VSC</p>
-   
+  </body>
+</html>
 
   
