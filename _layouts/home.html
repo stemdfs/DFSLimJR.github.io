@@ -6,7 +6,7 @@ layout: default
 
   {{ content }}
 
-  <h2>Steps</h2>
+  <h2>Steps for making your own webpage</h2>
 
   <div>&nbsp;</div>
 
@@ -20,9 +20,10 @@ layout: default
         <h2>
           <a class="post-link" href="{{ post.url | absolute_url }}" title="{{ post.title }}">{{ post.title | escape }}</a>
         </h2>
-
         
-
+       
+        {{ post.excerpt | markdownify | truncatewords: 10 }}
+        
       </li>
     {% endfor %}
   </ul>
