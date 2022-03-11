@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Download Git"
+title: "3.Register for a Git Hub account"
 categories: misc
 ---
 <html> 
