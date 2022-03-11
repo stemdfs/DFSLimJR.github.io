@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Install Visual Studio Code"
+---
+<html>
+  <body>
+    <h2>What is Visual Studio Code?</h2>
+    <p>Enter description of VSC</p>
+    <br />
+    
+    <p>Click <a href="https://code.visualstudio.com/Download">here</a> to install VSC</p>
+   
+
+  
