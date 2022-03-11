@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Install Visual Studio Code"
+title: "1.Install Visual Studio Code"
 ---
 <html>
   <body>
